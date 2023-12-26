@@ -3,3 +3,6 @@ img{
 
 }
 
+.caja{
+  user-select: none;
+}
